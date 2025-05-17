@@ -1,9 +1,9 @@
-📖 Sesión 02 ➡️ / ⚡Reto 01: Simulador de farmacia con descuento
+#Sesión 02  - Reto 01: Simulador de farmacia con descuento
 
-🎯 Objetivo
-⚒️ Desarrollar un programa que calcule el total de una compra en farmacia y aplique un descuento si supera cierta cantidad. Este reto refuerza el uso de operadores aritméticos, asignación, entrada por consola, e inferencia de tipo con var.
+##Objetivo
+Desarrollar un programa que calcule el total de una compra en farmacia y aplique un descuento si supera cierta cantidad. Este reto refuerza el uso de operadores aritméticos, asignación, entrada por consola, e inferencia de tipo con var.
 
-💊 Crea una clase llamada SimuladorFarmacia.
+Crea una clase llamada SimuladorFarmacia.
 
 Solicita al usuario que introduzca los siguientes datos:
 
@@ -23,7 +23,7 @@ Total sin descuento: $600.0
 ¿Aplica descuento?: true
 Descuento: $90.0
 Total a pagar: $510.0
-📌 Consideraciones
+Consideraciones
 Utiliza var en al menos una línea de tu código.
 No uses if, else ni switch. Solo operadores básicos y ternarios.
 El valor del descuento solo debe calcularse si el total supera los $500.00.
