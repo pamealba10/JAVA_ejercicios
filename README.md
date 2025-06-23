@@ -34,6 +34,7 @@ Se encuentra la carpeta S01 a la S08 que pertenecen al Módulo 1 y la otra carpe
 - **Apache Maven**
 - **H2 Database**
 - **IntelliJ IDEA**
+- **VSC**
 
 ---
 
